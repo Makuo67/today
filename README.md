@@ -21,34 +21,40 @@ Before you begin, ensure you have the latest version of [Node.js](https://nodejs
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/Makuo67/today.git
    ```
 
 ### Navigate to the project directory:
 
-````bash
+```bash
 cd todo-app
+```
 
 ### Install the dependencies:
+
 ```bash
 npm install
+```
 
 ### Running the Application:
+
 To start the application, run the following command in the project directory:
+
 ```bash
 npm start
+```
 
 ### Technologies Used
+
 - **React**: A JavaScript library for building user interfaces.
 - **CSS**: For styling the components.
 
 ### License
+
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ### Contact
+
 Okeke Makuochukwu - [@OkekeCh72667362](https://twitter.com/OkekeCh72667362) - okekemakuo67@gmail.com
 
 Project Link: [https://github.com/Makuo67/todo-app](https://github.com/Makuo67/todo-app)
-
-
-````
