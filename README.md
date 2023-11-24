@@ -55,6 +55,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ### Contact
 
-Okeke Makuochukwu - [@OkekeCh72667362](https://twitter.com/OkekeCh72667362) - okekemakuo67@gmail.com
+Okeke Makuochukwu - okekemakuo67@gmail.com
 
-Project Link: [https://github.com/Makuo67/todo-app](https://github.com/Makuo67/todo-app)
+Project Link: [https://github.com/Makuo67/todo-app](https://github.com/Makuo67/today)
