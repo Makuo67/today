@@ -95,16 +95,32 @@ function Todo() {
 
       <div className="controls">
         <div className="filters">
-          <span id="all" onClick={() => setFilter("all")}>
+          <span
+            id="all"
+            onClick={() => setFilter("all")}
+            className={filter === "all" ? "active" : ""}
+          >
             All
           </span>
-          <span id="pending" onClick={() => setFilter("pending")}>
+          <span
+            id="pending"
+            onClick={() => setFilter("pending")}
+            className={filter === "pending" ? "active" : ""}
+          >
             Pending
           </span>
-          <span id="completed" onClick={() => setFilter("completed")}>
+          <span
+            id="completed"
+            onClick={() => setFilter("completed")}
+            className={filter === "completed" ? "active" : ""}
+          >
             Completed
           </span>
-          <span id="important" onClick={() => setFilter("important")}>
+          <span
+            id="important"
+            onClick={() => setFilter("important")}
+            className={filter === "important" ? "active" : ""}
+          >
             Important
           </span>
         </div>

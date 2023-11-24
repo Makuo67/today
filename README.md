@@ -44,6 +44,10 @@ To start the application, run the following command in the project directory:
 npm start
 ```
 
+### Screenshot
+
+![ToDo Application](./public/todo.png)
+
 ### Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.

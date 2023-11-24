@@ -77,15 +77,18 @@ body {
 .filters span{
   margin: 0 8px;
   font-size: 17px;
+  font-style: normal;
   color: #444444;
   cursor: pointer;
+  padding-bottom: 2px;
+  border-bottom: 2px solid transparent;
 }
 
 .filters span:first-child{
   margin-left: 0;
 }
-.filters span.active{
-  color: #3C87FF;
+.filters span.active {
+  border-bottom-color: #3C87FF;
 }
 .controls .clear-btn{
   border: none;

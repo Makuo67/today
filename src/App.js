@@ -8,7 +8,7 @@ function App() {
         alt="logo"
         className="logo"
       />
-      <h1 className="header-1">Today</h1>
+      <h1 className="header-1">ToDo</h1>
     </div>
   );
 }
